@@ -149,7 +149,6 @@
                 "sha256:70d0da09c26cff288852471be03c23f0f521fc15cf16ac89c7a3bfb9ae8d24f9"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.7'",
             "version": "==1.5.2"
         },
         "mkdocs-simple-blog": {
@@ -158,7 +157,6 @@
                 "sha256:576aecbe172f5464270352e63d752abce938c8f12de47d2c555b0d7e7643ed8d"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.6'",
             "version": "==0.0.9"
         },
         "nodeenv": {
@@ -195,12 +193,11 @@
         },
         "pre-commit": {
             "hashes": [
-                "sha256:10badb65d6a38caff29703362271d7dca483d01da88f9d7e05d0b97171c136cb",
-                "sha256:a2256f489cd913d575c145132ae196fe335da32d91a8294b7afe6622335dd023"
+                "sha256:6bbd5129a64cad4c0dfaeeb12cd8f7ea7e15b77028d985341478c8af3c759522",
+                "sha256:96d529a951f8b677f730a7212442027e8ba53f9b04d217c4c67dc56c393ad945"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.8'",
-            "version": "==3.3.3"
+            "version": "==3.4.0"
         },
         "python-dateutil": {
             "hashes": [
