@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+
+[dev-packages]
+mkdocs = "*"
+pre-commit = "*"
+mkdocs-simple-blog = "*"
+
+[requires]
+python_version = "3.10"

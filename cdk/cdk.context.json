@@ -1,0 +1,5 @@
+{
+    "certificate_arn": "arn:aws:acm:us-east-1:324339572165:certificate/1162a77a-e675-4d6a-9081-4abe9690cd5f",
+    "hosted_zone_id": "Z00089902MK3DUJOUO10I",
+    "hosted_zone_name": "hackerman.ca"
+}

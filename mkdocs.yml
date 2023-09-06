@@ -1,0 +1,27 @@
+site_name: N64 End Labels Templates
+site_url: https://n64.hackerman.ca/
+repo_url: https://github.com/daxAKAhackerman/n64-label-templates
+repo_name: daxAKAhackerman/n64-label-templates
+site_description: End labels for all N64 games that you can edit and print yourself
+site_author: Samuel De Grace
+use_directory_urls: false
+nav:
+  - Home: index.md
+  - Templates:
+    - ntsc-u.md
+    - ntsc-u-exclusives.md
+    - ntsc-u-variants.md
+    - ntsc-j.md
+    - ntsc-j-exclusives.md
+    - pal.md
+    - pal-exclusives.md
+    - pal-variants.md
+    - third-party.md
+theme:
+  name: simple-blog
+  favicon: img/favicon.ico
+  logo: img/logo.png
+  components:
+    title: false
+    preview: false
+    footer: false
