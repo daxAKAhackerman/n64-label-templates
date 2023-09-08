@@ -10,5 +10,5 @@ Games that were released by third parties.
 
 ## Download links
 
-- [Labels in PNG format (to print)](files/third-parties-images.zip) - **[Updated 2023/09/05]**
+- [Labels in PNG format (to print)](files/third-parties-images.zip) - **[Updated 2023/09/08]**
 - [Labels in PSD format (to edit)](files/third-parties-templates.zip) - **[Updated 2023/09/05]**
