@@ -10,5 +10,5 @@ All games that were released only in North America and other NTSC territories, b
 
 ## Download links
 
-- [Labels in PNG format (to print)](files/ntsc-u-exclusives-images.zip) - **[Updated 2023/09/04]**
-- [Labels in PSD format (to edit)](files/ntsc-u-exclusives-templates.zip) - **[Updated 2023/09/04]**
+- [Labels in PNG format (to print)](files/ntsc-u-exclusives-images.zip) - **[Updated 2023/09/08]**
+- [Labels in PSD format (to edit)](files/ntsc-u-exclusives-templates.zip) - **[Updated 2023/09/08]**
