@@ -1,12 +1,14 @@
-I've been collecting for the N64 for the past years and I'm getting pretty close to completing the NTSC-U set (loose). Now, of course, the next logical step is to get into the NTSC-J and PAL exclusives!
+I've been collecting for the N64 for the past years and I'm getting pretty close to completing the NTSC-U set (loose). Now, the next step is to get into the NTSC-J and PAL exclusives!
 
 I've bought some end labels for the NTSC-U set (from Etsy or Ebay) and was looking for the same style of labels for the other regions, but didn't find quite what I was looking for. Another thing that I noticed was that there are few templates that you can find online containing the complete series of games so you can print them yourself.
 
 **So I'm starting this little project to create end label sticker sheet templates and make them available for free here.**
 
-This website contains printable label sheets to put on top of your games so you can identify them if you store them in a way where the front is not visible. Here, you can download the complete set both in image and Photoshop format so you can edit them and print them yourself at your local print shop (or like Staples).
+This website contains printable label sheets to put on top of your games (or its protective case) so you can identify them if you store them in a way where the front is not visible. Here, you can download the complete set both in image and Photoshop (compatible with Gimp) format so you can edit them and print them yourself, or at your local print shop.
 
 If you feel like some games are missing, feel free to open an issue on my Github (link at the top right of the page).
+
+![Example](img/example.png)
 
 ## Specs
 
