@@ -1,85 +1,36 @@
-64 de Hakken!! Tamagotchi: Minna de Tamagotchi World
-64 Hanafuda: Tenshi no Yakusoku
-64 Ōzumō
-64 Ōzumō 2
-64 Trump Collection: Alice no Waku Waku Trump World
-AI Shogi 3
-Bakuretsu Muteki Bangaiō
-Bakushō Jinsei 64: Mezase! Resort Ō
-Bass Rush: ECOGEAR PowerWorm Championship
-Bonbāman Rokujūyon
-Choro Q 64 2: Hachamecha Grand Prix Race
-Chōkūkan Naitā Puro Yakyū Kingu
-Chōkūkan Night: Pro Yakyū King 2
-Dābī Sutarion 64
-Dance Dance Revolution Disney Dancing Museum
-Densha de Go! 64
-Dezaemon 3D
-Doraemon: Nobita to Mittsu no Seireiseki
-Doraemon 2: Nobita to Hikari no Shinden
-Doraemon 3: Nobita no Machi SOS!
-Dōbutsu no Mori
-Eiko no Saint Andrews
-Famisuta Rokujūshi
-Fushigi no Dungeon: Fūrai no Shiren 2: Oni Shūrai! Shiren-jō!
-Getter Love!!: Chō Renai Party Game Tanjō
-Goemon Mononoke Sugoroku
-Hamster Monogatari 64
-Harukanaru Augusta Masters '98
-Heiwa Pachinko World 64
-Ide Yosuke no Mahjong Juku
-Itoi Shigesato no Bass Tsuri No. 1 Kettehan!
-J-League Dynamite Soccer 64
-J-League Eleven Beat 1997
-J. League Live 64
-J-League Tactics Soccer
-Jango Simulation Mahjong-do 64
-Jikkyō GI Stable
-Jikkyō Pawapuro Puroyakyu 4
-Jikkyō Pawapuro Puroyakyu 5
-Jikkyō Pawapuro Puroyakyu 6
-Jikkyō Pawapuro Puroyakyu 2000
-Jikkyō Powerful Pro Yakyu Basic-ban 2001
-Jikkyō World Soccer 3
-Jinsei Game 64
-Kasutamu Robo
-Kasutamu Robo Buitsū
-Kiratto Kaiketsu! 64 Tanteidan
-Last Legion UX
-Mahjong 64
-Mahjong Horoki Classic
-Mahjong Master
-Mario no Photopi
-Morita Shogi 64
-Neon Genesis Evangelion
-Nintama Rantarō 64 Game Gallery
-Nushi Tsuri 64
-Nushi Tsuri 64: Shiokaze Ninotte
-Onegai Monsters
-Pachinko 365 Nichi
-Parlor! Pro 64: Pachinko Jikki Simulation
-PD Ultraman Battle Collection 64
-Pocket Monsters Stadium
-Power League 64
-Pro Mahjong Kiwame 64
-Pro Shinan Mahjong Tsuwamono 64: Jansō Battle ni Chōsen
-Puyo Puyo Sun 64
-Puyo Puyo~n Party
-Robot Ponkottsu 64: Nanatsu no Umi no Caramel
-Saikyō Habu Shōgi
-S.D. Hiryū no Ken Twin
-Shin Nippon Pro Wrestling: Toukon Road - Brave Spirits
-Shin Nippon Pro Wrestling: Toukon Road 2- Next Generation
-Sim City 2000
-Super B-Daman: Battle Phoenix 64
-Super Robot Spirits
-Super Robot Wars 64
-Susume! Taisen Puzzle Dama: Tōkon! Marutama Chō
-Tetris 64
-Tsumi to Batsu: Hoshi no Keishōsha
-Ucchan Nanchan no Hono no Challenge: Denryu Ira Ira Bo
-Virtual Pro Wrestling 2: Ōdō Keishō
-Virtual Pro Wrestling 64
-Wonder Project J2: Koruro no Mori no Jozetto
-Yakochu II: Satsujin Koro
-Zool: Majū Tsukai Densetsu
+=== PAGE 1 ===
+| ---------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------- |
+| 64 de Hakken!! Tamagotchi: Minna de Tamagotchi World | 64 Hanafuda: Tenshi no Yakusoku                         | 64 Ōzumō                                                      |
+| 64 Ōzumō 2                                           | 64 Trump Collection: Alice no Waku Waku Trump World     | AI Shogi 3                                                    |
+| Bakuretsu Muteki Bangaiō                             | Bakushō Jinsei 64: Mezase! Resort Ō                     | Bass Rush: ECOGEAR PowerWorm Championship                     |
+| Bonbāman Rokujūyon                                   | Choro Q 64 2: Hachamecha Grand Prix Race                | Chōkūkan Naitā Puro Yakyū Kingu                               |
+| Chōkūkan Night: Pro Yakyū King 2                     | Dābī Sutarion 64                                        | Dance Dance Revolution Disney Dancing Museum                  |
+| Densha de Go! 64                                     | Dezaemon 3D                                             | Doraemon: Nobita to Mittsu no Seireiseki                      |
+| Doraemon 2: Nobita to Hikari no Shinden              | Doraemon 3: Nobita no Machi SOS!                        | Dōbutsu no Mori                                               |
+| Eiko no Saint Andrews                                | Famisuta Rokujūshi                                      | Fushigi no Dungeon: Fūrai no Shiren 2: Oni Shūrai! Shiren-jō! |
+| Getter Love!!: Chō Renai Party Game Tanjō            | Goemon Mononoke Sugoroku                                | Hamster Monogatari 64                                         |
+| Harukanaru Augusta Masters '98                       | Heiwa Pachinko World 64                                 | Ide Yosuke no Mahjong Juku                                    |
+| Itoi Shigesato no Bass Tsuri No. 1 Kettehan!         | J-League Dynamite Soccer 64                             | J-League Eleven Beat 1997                                     |
+| J. League Live 64                                    | J-League Tactics Soccer                                 | Jango Simulation Mahjong-do 64                                |
+| Jikkyō GI Stable                                     | Jikkyō Pawapuro Puroyakyu 4                             | Jikkyō Pawapuro Puroyakyu 5                                   |
+| Jikkyō Pawapuro Puroyakyu 6                          | Jikkyō Pawapuro Puroyakyu 2000                          | Jikkyō Powerful Pro Yakyu Basic-ban 2001                      |
+| Jinsei Game 64                                       | Jikkyō World Soccer 3                                   | Kasutamu Robo                                                 |
+| Kasutamu Robo Buitsū                                 | Kiratto Kaiketsu! 64 Tanteidan                          | Last Legion UX                                                |
+| Mahjong 64                                           | Mahjong Horoki Classic                                  | Mahjong Master                                                |
+| Mario no Photopi                                     | Morita Shogi 64                                         | Neon Genesis Evangelion                                       |
+| Nintama Rantarō 64 Game Gallery                      | Nushi Tsuri 64                                          | Nushi Tsuri 64: Shiokaze Ninotte                              |
+| Onegai Monsters                                      | Pachinko 365 Nichi                                      | Parlor! Pro 64: Pachinko Jikki Simulation                     |
+| ---------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------- |
+
+=== PAGE 2 ===
+| ---------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------- |
+| PD Ultraman Battle Collection 64                     | Pocket Monsters Stadium                                 | Power League 64                                               |
+| Pro Mahjong Kiwame 64                                | Pro Shinan Mahjong Tsuwamono 64: Jansō Battle ni Chōsen | Puyo Puyo Sun 64                                              |
+| Puyo Puyo~n Party                                    | Robot Ponkottsu 64: Nanatsu no Umi no Caramel           | Saikyō Habu Shōgi                                             |
+| S.D. Hiryū no Ken Densetsu                           | Shin Nippon Pro Wrestling: Toukon Road - Brave Spirits  | Shin Nippon Pro Wrestling: Toukon Road 2- Next Generation     |
+| Sim City 2000                                        | Super B-Daman: Battle Phoenix 64                        | Super Robot Spirits                                           |
+| Super Robot Wars 64                                  | Susume! Taisen Puzzle Dama: Tōkon! Marutama Chō         | Tetris 64                                                     |
+| Tsumi to Batsu: Hoshi no Keishōsha                   | Ucchan Nanchan no Hono no Challenge: Denryu Ira Ira Bo  | Virtual Pro Wrestling 64                                      |
+| Virtual Pro Wrestling 2: Ōdō Keishō                  | Wonder Project J2: Koruro no Mori no Jozetto            | Yakochu II: Satsujin Koro                                     |
+| Zool: Majū Tsukai Densetsu                           |
+| ---------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------- |
