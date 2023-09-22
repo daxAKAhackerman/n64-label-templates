@@ -26,4 +26,7 @@ http://www.thecoverproject.net/
 https://gamefaqs.gamespot.com/n64/
 https://freebiesupply.com/logos/nintendo-64-logo/
 http://www.nesworld.com/article.php?system=n64&data=n64releaselist
+https://twitter.com/gameartarchive
+https://www.retroplace.com/
+https://bigjpg.com/
 ```

@@ -1,20 +1,11 @@
-=== Piko Interactive ===
-40 winks - NTSC
-40 winks - PAL
-40 winks (special edition) - NTSC
-40 winks (special edition) - PAL
-
-=== RetroRoomgames ===
-Big2Small - NTSC
-Big2Small - PAL
-
-=== Bitmap Bureau ===
-Xeno Crisis - NTSC-U
-Xeno Crisis - NTSC-J
-Xeno Crisis - PAL
-
-=== Limited Run Games ===
-Glover
-Worms Armageddon
-Star Wars: Shadows of the Empire
-Star Wars Episode I: Racer
+=== PAGE 1===
+| ------------------------------------------------------ | --------------------------------------------------- | ------------------------------------ |
+| [Piko Interactive] 40 winks (NTSC-U)                   | [Piko Interactive] 40 winks (PAL)                   |                                      |
+| [Piko Interactive] 40 winks (special edition) (NTSC-U) | [Piko Interactive] 40 winks (special edition) (PAL) |                                      |
+| [RetroRoomgames] Big2Small (NTSC-U)                    | [RetroRoomgames] Big2Small (PAL)                    |                                      |
+| [Bitmap Bureau] Xeno Crisis (NTSC-U)                   | [Bitmap Bureau] Xeno Crisis (PAL)                   | [Bitmap Bureau] Xeno Crisis (NTSC-J) |
+| [Limited Run Games] Glover                             |                                                     |                                      |
+| [Limited Run Games] Star Wars Episode I: Racer         |                                                     |                                      |
+| [Limited Run Games] Star Wars: Shadows of the Empire   |                                                     |                                      |
+| [Limited Run Games] Worms Armageddon                   |                                                     |                                      |
+| ------------------------------------------------------ | --------------------------------------------------- | ------------------------------------ |

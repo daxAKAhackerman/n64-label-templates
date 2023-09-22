@@ -1,73 +1,29 @@
-=== Player's Choice ===
-007 GoldenEye
-1080 Snowboarding
-Banjo-Kazooie
-Cruis'n USA
-Diddy Kong Racing
-Mario Kart 64
-Star Fox 64
-Star Wars Shadows of the Empire
-Star Wars Rogue Squadron
-Super Mario 64
-Super Smash Bros.
-Turok Dinosaur Hunter
-Zelda Ocarina of Time
-Yoshi's Story
-Wave Race 64
+=== PAGE 1 ===
+| ------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------- |
+| GoldenEye 007 (Not for Resale)                          | 1080° Snowboarding (Not for Resale)                       | Banjo-Kazooie (Not for Resale)                                   |
+| Banjo-Tooie (NOT FOR RESALE!)                           | Diddy Kong Racing (Not for Resale)                        | Donkey Kong 64 (NOT FOR RESALE!)                                 |
+| Excitebike 64 (Not for Resale)                          | Jet Force Gemini (NOT FOR RESALE!)                        | Mario Kart 64 (Not for Resale)                                   |
+| Mario Party 2 (Not for Resale)                          | Mario Party 3 (NOT FOR RESALE)                            | Mario Tennis (NOT FOR RESALE!)                                   |
+| Perfect Dark (NOT FOR RESALE!)                          | Pokémon Snap (Not for Resale)                             | Pokémon Snap (DEMO ONLY-NOT FOR RESALE)                          |
+| Pokémon Stadium (NOT FOR RESALE)                        | Pokémon Stadium 2 (Not for Resale)                        | Star Fox 64 (Not for Resale)                                     |
+| Star Wars Episode I: Racer (Not for Resale)             | Star Wars: Rogue Squadron (Not for Resale)                | Super Mario 64 (Not for Resale)                                  |
+| Turok 2: Seeds of Evil (DEMO ONLY Not For Resale)       | Yoshi's Story (Not for Resale)                            | The Legend of Zelda: Ocarina of Time (Not for Resale)            |
+| The Legend of Zelda: Majora's Mask (NOT FOR RESALE!)    | GoldenEye 007 (Player's Choice)                           | 1080° Snowboarding (Player's Choice)                             |
+| Banjo-Kazooie (Player's Choice)                         | Cruis'n USA (Player's Choice)                             | Diddy Kong Racing (Player's Choice)                              |
+| Mario Kart 64 (Player's Choice)                         | Star Fox 64 (Player's Choice)                             | Star Wars: Shadows of the Empire (Player's Choice)               |
+| Star Wars: Rogue Squadron (Player's Choice)             | Super Mario 64 (Player's Choice)                          | Super Smash Bros. (Player's Choice)                              |
+| Turok: Dinosaur Hunter (Player's Choice)                | The Legend of Zelda: Ocarina of Time (Player's Choice)    | Yoshi's Story (Player's Choice)                                  |
+| Wave Race 64 (Player's Choice)                          | The World Is Not Enough (Grey Cart)                       | Aidyn Chronicles (Grey Cart)                                     |
+| Army Men: Air Combat (Grey Cart)                        | Army Men: Sarge's Heroes 2 (Grey Cart)                    | Bass Masters 2000 (Grey Cart)                                    |
+| Hydro Thunder (Grey Cart)                               | Tom Clancy's Rainbow Six (Grey Cart)                      | Road Rash 64 (Grey Cart)                                         |
+| Rugrats in Paris - The Movie (Grey Cart)                | Scooby-Doo! Classic Creep Capers (Grey Cart)              | Turok 2: Seeds of Evil (Grey Cart)                               |
+| Turok: Rage Wars (Grey Cart)                            | WCW Backstage Assault (Grey Cart)                         | The Legend of Zelda: Majora's Mask (NOT FOR RESALE!) (Grey Cart) |
+| The Legend of Zelda: Majora's Mask (Collector' Edition) | The Legend of Zelda: Ocarina of Time (Collector' Edition) | WWF No Mercy (USA-1)                                             |
+| Resident Evil 2 (USA-1)                                 | Mario Golf (USA-1)                                        | Mortal Kombat Trilogy (USA-1)                                    |
+| Pokémon Snap (USA-1)                                    | Wayne Gretzky's 3D Hockey (USA-1)                         |                                                                  |
+| ------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------- |
 
-=== Not for Resale ===
-007 GoldenEye
-1080 Snowboarding
-Banjo-Kazooie
-Banjo-Tooie
-Diddy Kong Racing
-Donkey Kong 64
-Excitebike 64
-Jet Force Gemini
-Mario Kart 64
-Mario Party 2
-Mario Party 3
-Mario Tennis
-Perfect Dark
-Pokemon Snap (Not for Resale)
-Pokemon Snap (DEMO ONLY-NOT FOR RESALE)
-Pokemon Stadium
-Pokemon Stadium 2
-Star Fox 64
-Star Wars Episode I Racer
-Star Wars Rogue Squadron
-Super Mario 64
-Turok 2 Seeds of Evil
-Yoshi's Story
-Zelda Majora's Mask
-Zelda Ocarina of Time
-
-=== Grey Cart ===
-007 World is Not Enough
-Aidyn Chronicles
-Army Men Air Combat
-Army Men Sarge's Heroes 2
-Bass Masters 2000
-Hydro Thunder
-Rainbow Six
-Road Rash
-Rugrats in Paris
-Scooby Doo Classic Creep Capers
-Turok 2 Seeds of Evil
-Turok Rage Wars
-WCW Backstage Assault
-
-=== Not for Resale / Grey Cart ===
-Zelda Majora's Mask
-
-=== Collector' Edition ===
-Zelda Majora's Mask
-Zelda Ocarina of Time
-
-=== USA-1 ===
-Resident Evil 2
-WWF No Mercy
-Mario Golf
-Mortal Kombat Trilogy
-Pokemon Snap
-Wayne Gretzky's 3D Hockey
+=== PAGE 2 ===
+| ------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------- |
+| Pokémon Snap (USA-1)                                    | Wayne Gretzky's 3D Hockey (USA-1)                         |                                                                  |
+| ------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------- |
