@@ -4,7 +4,6 @@ repo_url: https://github.com/daxAKAhackerman/n64-label-templates
 repo_name: daxAKAhackerman/n64-label-templates
 site_description: End labels for all N64 games that you can edit and print yourself
 site_author: Samuel De Grace
-use_directory_urls: false
 nav:
   - Home: index.md
   - Templates:
