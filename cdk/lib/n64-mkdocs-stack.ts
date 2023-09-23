@@ -7,6 +7,7 @@ import * as certificatemanager from 'aws-cdk-lib/aws-certificatemanager'
 import * as route53 from 'aws-cdk-lib/aws-route53'
 import * as route53Targets from 'aws-cdk-lib/aws-route53-targets'
 import * as ssm from 'aws-cdk-lib/aws-ssm'
+import * as path from 'path'
 
 export class N64MkdocsStack extends cdk.Stack {
   constructor (scope: Construct, id: string, props?: cdk.StackProps) {
@@ -54,14 +55,25 @@ export class N64MkdocsStack extends cdk.Stack {
       parameterName: '/n64-mkdocs/bucket/bucket-name'
     })
 
+    const addIndexFileFunction = new cloudfront.Function(this, 'AddIndexFileFunction', {
+      code: cloudfront.FunctionCode.fromFile({
+        filePath: path.join(__dirname, '../src/add-index-file.js')
+      })
+    })
+
     const distribution = new cloudfront.Distribution(this, 'Distribution', {
       defaultBehavior: {
         origin: new cloudfrontOrigins.S3Origin(bucket),
         allowedMethods: cloudfront.AllowedMethods.ALLOW_GET_HEAD_OPTIONS,
         responseHeadersPolicy: cloudfront.ResponseHeadersPolicy.SECURITY_HEADERS,
-        viewerProtocolPolicy: cloudfront.ViewerProtocolPolicy.REDIRECT_TO_HTTPS
+        viewerProtocolPolicy: cloudfront.ViewerProtocolPolicy.REDIRECT_TO_HTTPS,
+        functionAssociations: [
+          {
+            function: addIndexFileFunction,
+            eventType: cloudfront.FunctionEventType.VIEWER_REQUEST
+          }
+        ]
       },
-      defaultRootObject: 'index.html',
       logBucket,
       logFilePrefix: 'cdn',
       certificate,
