@@ -1,8 +1,8 @@
-site_name: N64 End Labels Templates
+site_name: Nintendo 64 End Labels
 site_url: https://n64.hackerman.ca/
 repo_url: https://github.com/daxAKAhackerman/n64-label-templates
 repo_name: daxAKAhackerman/n64-label-templates
-site_description: End labels for all N64 games that you can edit and print yourself
+site_description: Nintendo 64 end labels for all games that you can download, edit and print yourself
 site_author: Samuel De Grace
 nav:
   - Home: index.md

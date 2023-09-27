@@ -2,9 +2,9 @@ I've been collecting for the N64 for the past years and I'm getting pretty close
 
 I've bought some end labels for the NTSC-U set (from Etsy or Ebay) and was looking for the same style of labels for the other regions, but didn't find quite what I was looking for. Another thing that I noticed was that there are few templates that you can find online containing the complete series of games so you can print them yourself.
 
-**So I'm starting this little project to create end label sticker sheet templates and make them available for free here.**
+**So I'm starting this little project to create n64 end labels and make them available to download for free here.**
 
-This website contains printable label sheets to put on top of your games (or its protective case) so you can identify them if you store them in a way where the front is not visible. Here, you can download the complete set both in image and Photoshop (compatible with Gimp) format so you can edit them and print them yourself, or at your local print shop.
+This website contains printable n64 end labels sheets to put on top of your cartdrigdes (or its protective case) so you can identify them if you store them in a way where the front is not visible. Here, you can download the complete set both in image and Photoshop (compatible with Gimp) format so you can edit them and print them yourself, or at your local print shop, on sticker paper.
 
 If you feel like some games are missing, feel free to open an issue on my Github (link at the top right of the page).
 
