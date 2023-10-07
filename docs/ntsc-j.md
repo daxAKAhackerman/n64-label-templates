@@ -10,5 +10,5 @@ All games that were released in Japan.
 
 ## Download links
 
-- [Labels in PNG format (to print)](files/ntsc-j-images.zip) - **[Updated 2023/09/21]**
-- [Labels in PSD format (to edit)](files/ntsc-j-templates.zip) - **[Updated 2023/09/21]**
+- [Labels in PNG format (to print)](files/ntsc-j-images.zip) - **[Updated 2023/10/07]**
+- [Labels in PSD format (to edit)](files/ntsc-j-templates.zip) - **[Updated 2023/10/07]**
