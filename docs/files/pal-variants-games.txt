@@ -1,13 +1,10 @@
-=== Collector's Edition ===
-Donkey Kong 64 (Yellow cart)
-Zelda Ocarina of Time (Gold cart)
-
-=== Limited Edition ===
-Zelda Majora's Mask
-
-=== Regional releases ===
-Beetle Adventure Racing! -> HSV Adventure Racing (AUS)
-All Star Tennis '99 -> Yannick Noah All Star Tennis '99 (FRA)
-
-=== Not for Resale ===
-Turok 2 Seeds of Evil
+=== PAGE 1 ===
+| ------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------- |
+| Donkey Kong 64 (Collector's Edition)              | The Legend of Zelda: Ocarina of Time (Collector's Edition) | The Legend of Zelda: Majora's Mask (Limited Edition) |
+| Turok 2: Seeds of Evil (DEMO ONLY Not For Resale) | Box Champions 2000                                         | HSV Adventure Racing!                                |
+| Racing Simulation 2                               | RTL World League Soccer 2000                               | Telefoot Soccer 2000                                 |
+| Yannick Noah All Star Tennis '99                  | Diddy Kong Racing (Player's Choice)                        | GoldenEye 007 (Player's Choice)                      |
+| Mario Kart 64 (Player's Choice)                   | Super Mario 64 (Player's Choice)                           | Top Gear Rally (ITA-1)                               |
+| Turok: Dinosaur Hunter (EUR-1)                    | WWF No Mercy (EUR-1)                                       | Glover (EUR-1)                                       |
+| Lylat Wars (AUS-1)                                | Rugrats in Paris - The Movie (EUR-1)                       |                                                      |
+| ------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------- |
