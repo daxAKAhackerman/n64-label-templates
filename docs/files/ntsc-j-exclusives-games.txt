@@ -14,7 +14,7 @@
 | J. League Live 64                                    | J-League Tactics Soccer                                 | Jango Simulation Mahjong-do 64                                |
 | Jikkyō GI Stable                                     | Jikkyō Pawapuro Puroyakyu 4                             | Jikkyō Pawapuro Puroyakyu 5                                   |
 | Jikkyō Pawapuro Puroyakyu 6                          | Jikkyō Pawapuro Puroyakyu 2000                          | Jikkyō Powerful Pro Yakyu Basic-ban 2001                      |
-| Jinsei Game 64                                       | Jikkyō World Soccer 3                                   | Kasutamu Robo                                                 |
+| Jinsei Game 64                                       | Jikkyō J-League Perfect Striker                         | Kasutamu Robo                                                 |
 | Kasutamu Robo Buitsū                                 | Kiratto Kaiketsu! 64 Tanteidan                          | Last Legion UX                                                |
 | Mahjong 64                                           | Mahjong Horoki Classic                                  | Mahjong Master                                                |
 | Mario no Photopi                                     | Morita Shogi 64                                         | Neon Genesis Evangelion                                       |
