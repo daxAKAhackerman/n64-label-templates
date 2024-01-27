@@ -1,6 +1,6 @@
 I've been collecting for the N64 for the past years and I'm getting pretty close to completing the NTSC-U set (loose). Now, the next step is to get into the NTSC-J and PAL exclusives!
 
-I've bought some end labels for the NTSC-U set (from Etsy or Ebay) and was looking for the same style of labels for the other regions, but didn't find quite what I was looking for. Another thing that I noticed was that there are few templates that you can find online containing the complete series of games so you can print them yourself.
+I've bought some N64 end labels for the NTSC-U set (from Etsy or Ebay) and was looking for the same style of labels for the other regions, but didn't find quite what I was looking for. Another thing that I noticed was that there are few templates that you can find online containing the complete series of games so you can print them yourself.
 
 **So I'm starting this little project to create N64 end labels and make them available to download for free here.**
 
@@ -20,13 +20,11 @@ If you feel like some games are missing, feel free to open an issue on my Github
 
 ## References
 
-```
-https://www.nintandbox.net/
-http://www.thecoverproject.net/
-https://gamefaqs.gamespot.com/n64/
-https://freebiesupply.com/logos/nintendo-64-logo/
-http://www.nesworld.com/article.php?system=n64&data=n64releaselist
-https://twitter.com/gameartarchive
-https://www.retroplace.com/
-https://bigjpg.com/
-```
+- [https://www.nintandbox.net/](https://www.nintandbox.net/)
+- [http://www.thecoverproject.net/](http://www.thecoverproject.net/)
+- [https://gamefaqs.gamespot.com/n64/](https://gamefaqs.gamespot.com/n64/)
+- [https://freebiesupply.com/logos/nintendo-64-logo/](https://freebiesupply.com/logos/nintendo-64-logo/)
+- [http://www.nesworld.com/article.php?system=n64&data=n64releaselist](http://www.nesworld.com/article.php?system=n64&data=n64releaselist)
+- [https://twitter.com/gameartarchive](https://twitter.com/gameartarchive)
+- [https://www.retroplace.com/](https://www.retroplace.com/)
+- [https://bigjpg.com/](https://bigjpg.com/)
