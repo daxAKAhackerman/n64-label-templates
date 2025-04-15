@@ -18,7 +18,7 @@ build:
 	@pipenv run mkdocs build
 
 upload: build
-	@aws s3 sync site s3://$(ASSETS_BUCKET_NAME)
+	@aws s3 sync --delete site s3://$(ASSETS_BUCKET_NAME)
 	@aws s3 sync google-site-verification s3://$(ASSETS_BUCKET_NAME)
 
 synth:
