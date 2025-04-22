@@ -63,7 +63,7 @@ export class N64MkdocsStack extends cdk.Stack {
 
     const distribution = new cloudfront.Distribution(this, 'Distribution', {
       defaultBehavior: {
-        origin: new cloudfrontOrigins.S3StaticWebsiteOrigin(bucket),
+        origin: cloudfrontOrigins.S3BucketOrigin.withOriginAccessControl(bucket),
         allowedMethods: cloudfront.AllowedMethods.ALLOW_GET_HEAD_OPTIONS,
         responseHeadersPolicy: cloudfront.ResponseHeadersPolicy.SECURITY_HEADERS,
         viewerProtocolPolicy: cloudfront.ViewerProtocolPolicy.REDIRECT_TO_HTTPS,
