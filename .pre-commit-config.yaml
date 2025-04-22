@@ -1,6 +1,6 @@
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.4.0
+    rev: v5.0.0
     hooks:
       - id: check-ast
       - id: check-merge-conflict
@@ -17,7 +17,7 @@ repos:
       - id: mixed-line-ending
       - id: trailing-whitespace
   - repo: https://github.com/pre-commit/mirrors-eslint
-    rev: v8.48.0
+    rev: v9.25.1
     hooks:
       - id: eslint
         files: cdk/(bin|lib)/.+\.ts$
@@ -25,5 +25,5 @@ repos:
           - file
         args:
           - -c
-          - ./cdk/.eslintrc.js
+          - ./cdk/eslint.config.mjs
           - --fix
